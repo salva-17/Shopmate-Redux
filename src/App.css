@@ -1,0 +1,14 @@
+.product-list{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 30px 0px;
+}
+
+h1{
+  text-align: center;
+}
+
+.cart-list{
+  margin: 30px 0px;
+}
